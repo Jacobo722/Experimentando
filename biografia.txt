@@ -2,3 +2,8 @@ Hola me llamo jacobo gomez y estoy eprendiendo git y git hub.
 Actualmente domino algunas tecnologias basicas de porgramacion. 
 
 Podria decir que aun soy un noob.
+He aprenedido a usar git, puedo usar git add origin master "repositorio remoto"
+y hacer un git push origin master:main.
+A si mismo para hacer cambios al repositorio remoto primero debemos
+hacer un git pull "repositorio remoto" o sea traer el repositorio remoto a nuestro rp locol
+de git. y despues hacer el push. 
