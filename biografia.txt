@@ -1,2 +1,4 @@
 Hola me llamo jacobo gomez y estoy eprendiendo git y git hub. 
 Actualmente domino algunas tecnologias basicas de porgramacion. 
+
+Podria decir que aun soy un noob.
