@@ -7,3 +7,5 @@ y hacer un git push origin master:main.
 A si mismo para hacer cambios al repositorio remoto primero debemos
 hacer un git pull "repositorio remoto" o sea traer el repositorio remoto a nuestro rp locol
 de git. y despues hacer el push. 
+
+raslasmajal.
