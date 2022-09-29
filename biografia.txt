@@ -9,3 +9,4 @@ hacer un git pull "repositorio remoto" o sea traer el repositorio remoto a nuest
 de git. y despues hacer el push. 
 
 raslasmajal.
+Y ahora estoy usando SSH secure shell boot.
