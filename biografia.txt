@@ -10,3 +10,6 @@ de git. y despues hacer el push.
 
 raslasmajal.
 Y ahora estoy usando SSH secure shell boot.
+He configurado las llaves rsa privadas y publicas.
+
+Ahora estoy tratando de hacer un push al directorio remoto.
